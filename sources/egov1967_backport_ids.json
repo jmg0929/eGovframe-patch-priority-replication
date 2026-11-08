@@ -1,0 +1,24 @@
+{
+  "url": "https://www.egovframe.go.kr/home/ntt/nttRead.do?menuNo=74&bbsId=6&nttId=1967",
+  "original_html_sha256": "d7a4335ad5e1c96304eddffe6ed5b17af25fe3208086ec1cb995248fac73262b",
+  "notice_number": 1967,
+  "date": "2026-10-29",
+  "section": "2) 실행환경 v4.3.1 배포",
+  "backport_cve_ids": [
+    "CVE-2026-22732",
+    "CVE-2025-22228",
+    "CVE-2026-41842",
+    "CVE-2024-38816",
+    "CVE-2024-38819",
+    "CVE-2025-41249",
+    "CVE-2026-41845",
+    "CVE-2026-41849",
+    "CVE-2026-41850",
+    "CVE-2026-41855",
+    "CVE-2026-59324",
+    "CVE-2026-41716",
+    "CVE-2026-41717",
+    "CVE-2026-41841",
+    "CVE-2026-41843"
+  ]
+}

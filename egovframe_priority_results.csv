@@ -1,0 +1,55 @@
+﻿cve,exploitation,utility,technical_impact,supplier_pair,states,initial_outcomes,all_fields,fixed_fields,gate_first_mean,gate_first_worst,adaptive_mean,adaptive_worst,first_question,unresolved_if_b_safety_unavailable
+CVE-2022-22965,none,laborious,partial,DS,256,D/R/S,8,8,3.7421875,8,3.6328125,8,A.jdk9,30
+CVE-2022-22965,none,laborious,total,SO,256,O/R/S,8,8,3.7421875,8,3.6328125,8,A.jdk9,30
+CVE-2022-22965,none,efficient,partial,SO,256,O/R/S,8,8,3.7421875,8,3.6328125,8,A.jdk9,30
+CVE-2022-22965,none,efficient,total,SO,256,O/R/S,8,8,3.7421875,8,3.6328125,8,A.jdk9,30
+CVE-2022-22965,none,super effective,partial,SO,256,O/R/S,8,8,3.7421875,8,3.6328125,8,A.jdk9,30
+CVE-2022-22965,none,super effective,total,OO,256,O/R,8,6,3.5,6,3.28125,6,A.jdk9,0
+CVE-2022-22965,public poc,laborious,partial,SO,256,O/R/S,8,8,3.7421875,8,3.6328125,8,A.jdk9,30
+CVE-2022-22965,public poc,laborious,total,SI,256,I/R/S,8,8,3.7421875,8,3.6328125,8,A.jdk9,30
+CVE-2022-22965,public poc,efficient,partial,SI,256,I/R/S,8,8,3.7421875,8,3.6328125,8,A.jdk9,30
+CVE-2022-22965,public poc,efficient,total,OI,256,I/O/R,8,8,3.7421875,8,3.6328125,8,A.jdk9,30
+CVE-2022-22965,public poc,super effective,partial,OI,256,I/O/R,8,8,3.7421875,8,3.6328125,8,A.jdk9,30
+CVE-2022-22965,public poc,super effective,total,OI,256,I/O/R,8,8,3.7421875,8,3.6328125,8,A.jdk9,30
+CVE-2022-22965,active,laborious,partial,OI,256,I/O/R,8,8,3.7421875,8,3.6328125,8,A.jdk9,30
+CVE-2022-22965,active,laborious,total,OI,256,I/O/R,8,8,3.7421875,8,3.6328125,8,A.jdk9,30
+CVE-2022-22965,active,efficient,partial,OI,256,I/O/R,8,8,3.7421875,8,3.6328125,8,A.jdk9,30
+CVE-2022-22965,active,efficient,total,OI,256,I/O/R,8,8,3.7421875,8,3.6328125,8,A.jdk9,30
+CVE-2022-22965,active,super effective,partial,II,256,I/R,8,6,3.5,6,3.28125,6,A.jdk9,0
+CVE-2022-22965,active,super effective,total,II,256,I/R,8,6,3.5,6,3.28125,6,A.jdk9,0
+CVE-2022-22980,none,laborious,partial,DS,128,D/R/S,7,7,3.609375,7,3.390625,7,B.unsanitized_input,30
+CVE-2022-22980,none,laborious,total,SO,128,O/R/S,7,7,3.609375,7,3.390625,7,B.unsanitized_input,30
+CVE-2022-22980,none,efficient,partial,SO,128,O/R/S,7,7,3.609375,7,3.390625,7,B.unsanitized_input,30
+CVE-2022-22980,none,efficient,total,SO,128,O/R/S,7,7,3.609375,7,3.390625,7,B.unsanitized_input,30
+CVE-2022-22980,none,super effective,partial,SO,128,O/R/S,7,7,3.609375,7,3.390625,7,B.unsanitized_input,30
+CVE-2022-22980,none,super effective,total,OO,128,O/R,7,5,3.25,5,2.8125,5,B.unsanitized_input,0
+CVE-2022-22980,public poc,laborious,partial,SO,128,O/R/S,7,7,3.609375,7,3.390625,7,B.unsanitized_input,30
+CVE-2022-22980,public poc,laborious,total,SI,128,I/R/S,7,7,3.609375,7,3.390625,7,B.unsanitized_input,30
+CVE-2022-22980,public poc,efficient,partial,SI,128,I/R/S,7,7,3.609375,7,3.390625,7,B.unsanitized_input,30
+CVE-2022-22980,public poc,efficient,total,OI,128,I/O/R,7,7,3.609375,7,3.390625,7,B.unsanitized_input,30
+CVE-2022-22980,public poc,super effective,partial,OI,128,I/O/R,7,7,3.609375,7,3.390625,7,B.unsanitized_input,30
+CVE-2022-22980,public poc,super effective,total,OI,128,I/O/R,7,7,3.609375,7,3.390625,7,B.unsanitized_input,30
+CVE-2022-22980,active,laborious,partial,OI,128,I/O/R,7,7,3.609375,7,3.390625,7,B.unsanitized_input,30
+CVE-2022-22980,active,laborious,total,OI,128,I/O/R,7,7,3.609375,7,3.390625,7,B.unsanitized_input,30
+CVE-2022-22980,active,efficient,partial,OI,128,I/O/R,7,7,3.609375,7,3.390625,7,B.unsanitized_input,30
+CVE-2022-22980,active,efficient,total,OI,128,I/O/R,7,7,3.609375,7,3.390625,7,B.unsanitized_input,30
+CVE-2022-22980,active,super effective,partial,II,128,I/R,7,5,3.25,5,2.8125,5,B.unsanitized_input,0
+CVE-2022-22980,active,super effective,total,II,128,I/R,7,5,3.25,5,2.8125,5,B.unsanitized_input,0
+CVE-2024-38816,none,laborious,partial,DS,128,D/R/S,7,7,3.609375,7,3.390625,7,A.filesystem,14
+CVE-2024-38816,none,laborious,total,SO,128,O/R/S,7,7,3.609375,7,3.390625,7,A.filesystem,14
+CVE-2024-38816,none,efficient,partial,SO,128,O/R/S,7,7,3.609375,7,3.390625,7,A.filesystem,14
+CVE-2024-38816,none,efficient,total,SO,128,O/R/S,7,7,3.609375,7,3.390625,7,A.filesystem,14
+CVE-2024-38816,none,super effective,partial,SO,128,O/R/S,7,7,3.609375,7,3.390625,7,A.filesystem,14
+CVE-2024-38816,none,super effective,total,OO,128,O/R,7,5,3.25,5,2.8125,5,A.filesystem,0
+CVE-2024-38816,public poc,laborious,partial,SO,128,O/R/S,7,7,3.609375,7,3.390625,7,A.filesystem,14
+CVE-2024-38816,public poc,laborious,total,SI,128,I/R/S,7,7,3.609375,7,3.390625,7,A.filesystem,14
+CVE-2024-38816,public poc,efficient,partial,SI,128,I/R/S,7,7,3.609375,7,3.390625,7,A.filesystem,14
+CVE-2024-38816,public poc,efficient,total,OI,128,I/O/R,7,7,3.609375,7,3.390625,7,A.filesystem,14
+CVE-2024-38816,public poc,super effective,partial,OI,128,I/O/R,7,7,3.609375,7,3.390625,7,A.filesystem,14
+CVE-2024-38816,public poc,super effective,total,OI,128,I/O/R,7,7,3.609375,7,3.390625,7,A.filesystem,14
+CVE-2024-38816,active,laborious,partial,OI,128,I/O/R,7,7,3.609375,7,3.390625,7,A.filesystem,14
+CVE-2024-38816,active,laborious,total,OI,128,I/O/R,7,7,3.609375,7,3.390625,7,A.filesystem,14
+CVE-2024-38816,active,efficient,partial,OI,128,I/O/R,7,7,3.609375,7,3.390625,7,A.filesystem,14
+CVE-2024-38816,active,efficient,total,OI,128,I/O/R,7,7,3.609375,7,3.390625,7,A.filesystem,14
+CVE-2024-38816,active,super effective,partial,II,128,I/R,7,5,3.25,5,2.8125,5,A.filesystem,0
+CVE-2024-38816,active,super effective,total,II,128,I/R,7,5,3.25,5,2.8125,5,A.filesystem,0

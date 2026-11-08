@@ -1,0 +1,5 @@
+question_design,harm_cost,merged_probability,scoped_no_path_weight,sorted_serial_mean_fields,sorted_serial_mean_rounds,sorted_serial_mean_cost,parallel_mean_fields,parallel_mean_rounds,parallel_mean_cost,full_mean_cost
+separate,1,,0.765625,3.6328125,3.6328125,3.6328125,6.25,1.234375,6.25,8.0
+grouped_boolean_conjunction,1,0.25,0.765625,3.1484375,3.1484375,3.1484375,4.25,1.234375,4.25,6.0
+separate,3,,0.765625,3.6328125,3.6328125,4.1171875,6.25,1.234375,6.75,12.0
+grouped_boolean_conjunction,3,0.25,0.765625,3.1484375,3.1484375,3.6328125,4.25,1.234375,4.75,10.0

@@ -1,0 +1,17 @@
+{
+  "MVC-4.0.0": {
+    "url": "https://maven.egovframe.go.kr/maven/org/egovframe/rte/org.egovframe.rte.ptl.mvc/4.0.0/org.egovframe.rte.ptl.mvc-4.0.0.pom",
+    "file": "sources/case_poms/MVC-4.0.0.pom",
+    "sha256": "531a7d4342a20b3f9efd42ab8ca849cc64eeecb1ca4300c8eb3a8383096b4309"
+  },
+  "MongoDB-4.1.0": {
+    "url": "https://maven.egovframe.go.kr/maven/org/egovframe/rte/org.egovframe.rte.psl.data.mongodb/4.1.0/org.egovframe.rte.psl.data.mongodb-4.1.0.pom",
+    "file": "sources/case_poms/MongoDB-4.1.0.pom",
+    "sha256": "8acdfa70bb3c9965bb9952e12070a589294140f3a6f5cd822432a480494f19af"
+  },
+  "MVC-4.3.0": {
+    "url": "https://maven.egovframe.go.kr/maven/org/egovframe/rte/org.egovframe.rte.ptl.mvc/4.3.0/org.egovframe.rte.ptl.mvc-4.3.0.pom",
+    "file": "sources/case_poms/MVC-4.3.0.pom",
+    "sha256": "7f6f1add798c2ffe69b35432f583f9f1b35472d7c7695f47330070d74730258c"
+  }
+}

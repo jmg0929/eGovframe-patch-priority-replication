@@ -1,0 +1,52 @@
+{
+  "all": {
+    "n": 47,
+    "backport": 14,
+    "sensitive_concentrated": 43
+  },
+  "direct": {
+    "n": 26,
+    "backport": 7,
+    "sensitive_concentrated": 23
+  },
+  "direct_sensitive": {
+    "n": 23,
+    "backport": 7,
+    "sensitive_concentrated": 23
+  },
+  "expanded_scope": {
+    "n": 40,
+    "backport": 13,
+    "sensitive_concentrated": 36
+  },
+  "expanded_sensitive": {
+    "n": 36,
+    "backport": 12,
+    "sensitive_concentrated": 36
+  },
+  "out_of_cycle_regardless_of_safety_outside_notice": [
+    "CVE-2016-1000027",
+    "CVE-2026-47884",
+    "CVE-2026-47892"
+  ],
+  "technical_high": {
+    "n": 17,
+    "backport": 9,
+    "sensitive_concentrated": 13
+  },
+  "technical_other": {
+    "n": 30,
+    "backport": 5,
+    "sensitive_concentrated": 30
+  },
+  "fisher_two_sided": 0.018240179698105832,
+  "provisional_concentrated": {
+    "out-of-cycle": 47
+  },
+  "provisional_diffuse": {
+    "out-of-cycle": 17,
+    "scheduled": 30
+  },
+  "cisa_first": "2024-09-13T13:40:55.861149Z",
+  "cisa_last": "2026-10-07T18:42:36.058466Z"
+}

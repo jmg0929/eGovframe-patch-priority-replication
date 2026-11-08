@@ -1,0 +1,28 @@
+{
+  "basis": "Fixed direct and selected transitive artifact list used in the supplementary scope analysis. Not a resolved institution classpath.",
+  "artifacts": [
+    "spring-aop",
+    "spring-beans",
+    "spring-context",
+    "spring-context-support",
+    "spring-core",
+    "spring-data-commons",
+    "spring-data-mongodb",
+    "spring-expression",
+    "spring-integration-core",
+    "spring-jcl",
+    "spring-jdbc",
+    "spring-messaging",
+    "spring-orm",
+    "spring-security-acl",
+    "spring-security-config",
+    "spring-security-core",
+    "spring-security-crypto",
+    "spring-security-taglibs",
+    "spring-security-web",
+    "spring-tx",
+    "spring-web",
+    "spring-webflux",
+    "spring-webmvc"
+  ]
+}

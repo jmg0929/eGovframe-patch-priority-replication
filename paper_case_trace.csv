@@ -1,0 +1,4 @@
+policy,checks,rounds
+serial,5,5
+two_stage_parallel,6,2
+batch,7,1

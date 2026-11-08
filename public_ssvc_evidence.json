@@ -1,0 +1,73 @@
+{
+  "checked_on": "2026-11-07",
+  "scope": "SSVC metrics extracted from the public CVE List V5 records",
+  "records": [
+    {
+      "id": "CVE-2022-22965",
+      "uri": "https://raw.githubusercontent.com/CVEProject/cvelistV5/df4fcef576482b22bbb2c451ef48a704badd0a9a/cves/2022/22xxx/CVE-2022-22965.json",
+      "values": [
+        {
+          "id": "CVE-2022-22965",
+          "role": "CISA Coordinator",
+          "options": [
+            {
+              "Exploitation": "active"
+            },
+            {
+              "Automatable": "yes"
+            },
+            {
+              "Technical Impact": "total"
+            }
+          ],
+          "version": "2.0.3",
+          "timestamp": "2025-01-29T17:52:10.886552Z"
+        }
+      ]
+    },
+    {
+      "id": "CVE-2022-22980",
+      "uri": "https://raw.githubusercontent.com/CVEProject/cvelistV5/df4fcef576482b22bbb2c451ef48a704badd0a9a/cves/2022/22xxx/CVE-2022-22980.json",
+      "values": []
+    },
+    {
+      "id": "CVE-2024-38816",
+      "uri": "https://raw.githubusercontent.com/CVEProject/cvelistV5/df4fcef576482b22bbb2c451ef48a704badd0a9a/cves/2024/38xxx/CVE-2024-38816.json",
+      "values": [
+        {
+          "timestamp": "2024-09-13T13:40:55.861149Z",
+          "id": "CVE-2024-38816",
+          "options": [
+            {
+              "Exploitation": "none"
+            },
+            {
+              "Automatable": "yes"
+            },
+            {
+              "Technical Impact": "partial"
+            }
+          ],
+          "role": "CISA Coordinator",
+          "version": "2.0.3"
+        }
+      ]
+    }
+  ],
+  "supplier_assessment": {
+    "CVE-2022-22980": {
+      "exploitation": "public poc",
+      "assessed_on": "2026-11-07",
+      "source": "https://github.com/trganda/CVE-2022-22980",
+      "scope": "Published local PoC, documentary evidence only; no execution or proof of live exploitation.",
+      "sha": "5646ee7dd98ac907edfa3eb24a5b3e03e2843b16",
+      "commit_timestamp": "2022-06-23T09:53:01Z",
+      "repository_created_at": "2022-06-21T11:39:13Z",
+      "pinned_readme": "https://github.com/trganda/CVE-2022-22980/blob/5646ee7dd98ac907edfa3eb24a5b3e03e2843b16/README.md",
+      "visibility_at_review": "public",
+      "verified_on": "2026-11-07",
+      "basis": "The pinned repository includes a local Spring/MongoDB sample and reproduction documentation; this is documentary PoC evidence."
+    }
+  },
+  "snapshot_note": "The saved case inputs are checked against the CVE List V5 commit cited in the paper. checked_on refers to the original case evidence review."
+}

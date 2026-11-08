@@ -1,0 +1,313 @@
+{
+  "commit": "4fa1e27ff3a8ac44a45b78c55c822fb50e758950",
+  "artifacts": {
+    "spring-webmvc": [
+      {
+        "pom": "Batch/org.egovframe.rte.bat.core/pom.xml",
+        "coordinate": "org.springframework:spring-webmvc",
+        "scope": "compile"
+      },
+      {
+        "pom": "Foundation/org.egovframe.rte.fdl.access/pom.xml",
+        "coordinate": "org.springframework:spring-webmvc",
+        "scope": "compile"
+      },
+      {
+        "pom": "Foundation/org.egovframe.rte.fdl.excel/pom.xml",
+        "coordinate": "org.springframework:spring-webmvc",
+        "scope": "compile"
+      },
+      {
+        "pom": "Foundation/org.egovframe.rte.fdl.security/pom.xml",
+        "coordinate": "org.springframework:spring-webmvc",
+        "scope": "compile"
+      },
+      {
+        "pom": "Presentation/org.egovframe.rte.ptl.mvc/pom.xml",
+        "coordinate": "org.springframework:spring-webmvc",
+        "scope": "compile"
+      }
+    ],
+    "spring-context-support": [
+      {
+        "pom": "Batch/org.egovframe.rte.bat.core/pom.xml",
+        "coordinate": "org.springframework:spring-context-support",
+        "scope": "compile"
+      },
+      {
+        "pom": "Foundation/org.egovframe.rte.fdl.access/pom.xml",
+        "coordinate": "org.springframework:spring-context-support",
+        "scope": "compile"
+      },
+      {
+        "pom": "Foundation/org.egovframe.rte.fdl.cmmn/pom.xml",
+        "coordinate": "org.springframework:spring-context-support",
+        "scope": "compile"
+      },
+      {
+        "pom": "Foundation/org.egovframe.rte.fdl.xml/pom.xml",
+        "coordinate": "org.springframework:spring-context-support",
+        "scope": "compile"
+      },
+      {
+        "pom": "Integration/org.egovframe.rte.itl.integration/pom.xml",
+        "coordinate": "org.springframework:spring-context-support",
+        "scope": "compile"
+      }
+    ],
+    "spring-orm": [
+      {
+        "pom": "Batch/org.egovframe.rte.bat.core/pom.xml",
+        "coordinate": "org.springframework:spring-orm",
+        "scope": "compile"
+      },
+      {
+        "pom": "Integration/org.egovframe.rte.itl.integration/pom.xml",
+        "coordinate": "org.springframework:spring-orm",
+        "scope": "compile"
+      },
+      {
+        "pom": "Integration/org.egovframe.rte.itl.webservice/pom.xml",
+        "coordinate": "org.springframework:spring-orm",
+        "scope": "compile"
+      },
+      {
+        "pom": "Persistence/org.egovframe.rte.psl.dataaccess/pom.xml",
+        "coordinate": "org.springframework:spring-orm",
+        "scope": "compile"
+      }
+    ],
+    "spring-integration-core": [
+      {
+        "pom": "Batch/org.egovframe.rte.bat.core/pom.xml",
+        "coordinate": "org.springframework.integration:spring-integration-core",
+        "scope": "compile"
+      }
+    ],
+    "spring-messaging": [
+      {
+        "pom": "Batch/org.egovframe.rte.bat.core/pom.xml",
+        "coordinate": "org.springframework:spring-messaging",
+        "scope": "compile"
+      }
+    ],
+    "spring-aop": [
+      {
+        "pom": "Batch/org.egovframe.rte.bat.core/pom.xml",
+        "coordinate": "org.springframework:spring-aop",
+        "scope": "compile"
+      }
+    ],
+    "spring-tx": [
+      {
+        "pom": "Batch/org.egovframe.rte.bat.core/pom.xml",
+        "coordinate": "org.springframework:spring-tx",
+        "scope": "compile"
+      },
+      {
+        "pom": "Foundation/org.egovframe.rte.fdl.cmmn/pom.xml",
+        "coordinate": "org.springframework:spring-tx",
+        "scope": "compile"
+      },
+      {
+        "pom": "Persistence/org.egovframe.rte.psl.reactive.cassandra/pom.xml",
+        "coordinate": "org.springframework:spring-tx",
+        "scope": "compile"
+      },
+      {
+        "pom": "Persistence/org.egovframe.rte.psl.reactive.mongodb/pom.xml",
+        "coordinate": "org.springframework:spring-tx",
+        "scope": "compile"
+      },
+      {
+        "pom": "Persistence/org.egovframe.rte.psl.reactive.r2dbc/pom.xml",
+        "coordinate": "org.springframework:spring-tx",
+        "scope": "compile"
+      },
+      {
+        "pom": "Persistence/org.egovframe.rte.psl.reactive.redis/pom.xml",
+        "coordinate": "org.springframework:spring-tx",
+        "scope": "compile"
+      }
+    ],
+    "spring-jdbc": [
+      {
+        "pom": "Batch/org.egovframe.rte.bat.core/pom.xml",
+        "coordinate": "org.springframework:spring-jdbc",
+        "scope": "compile"
+      },
+      {
+        "pom": "Foundation/org.egovframe.rte.fdl.idgnr/pom.xml",
+        "coordinate": "org.springframework:spring-jdbc",
+        "scope": "provided"
+      },
+      {
+        "pom": "Foundation/org.egovframe.rte.fdl.property/pom.xml",
+        "coordinate": "org.springframework:spring-jdbc",
+        "scope": "compile"
+      },
+      {
+        "pom": "Foundation/org.egovframe.rte.fdl.security/pom.xml",
+        "coordinate": "org.springframework:spring-jdbc",
+        "scope": "compile"
+      }
+    ],
+    "spring-beans": [
+      {
+        "pom": "Foundation/org.egovframe.rte.fdl.crypto/pom.xml",
+        "coordinate": "org.springframework:spring-beans",
+        "scope": "compile"
+      }
+    ],
+    "spring-context": [
+      {
+        "pom": "Foundation/org.egovframe.rte.fdl.idgnr/pom.xml",
+        "coordinate": "org.springframework:spring-context",
+        "scope": "compile"
+      },
+      {
+        "pom": "Foundation/org.egovframe.rte.fdl.reactive/pom.xml",
+        "coordinate": "org.springframework:spring-context",
+        "scope": "compile"
+      },
+      {
+        "pom": "Foundation/org.egovframe.rte.fdl.string/pom.xml",
+        "coordinate": "org.springframework:spring-context",
+        "scope": "compile"
+      },
+      {
+        "pom": "Integration/org.egovframe.rte.itl.webservice/pom.xml",
+        "coordinate": "org.springframework:spring-context",
+        "scope": "compile"
+      },
+      {
+        "pom": "Persistence/org.egovframe.rte.psl.dataaccess/pom.xml",
+        "coordinate": "org.springframework:spring-context",
+        "scope": "compile"
+      },
+      {
+        "pom": "Persistence/org.egovframe.rte.psl.reactive.cassandra/pom.xml",
+        "coordinate": "org.springframework:spring-context",
+        "scope": "compile"
+      },
+      {
+        "pom": "Persistence/org.egovframe.rte.psl.reactive.mongodb/pom.xml",
+        "coordinate": "org.springframework:spring-context",
+        "scope": "compile"
+      },
+      {
+        "pom": "Persistence/org.egovframe.rte.psl.reactive.r2dbc/pom.xml",
+        "coordinate": "org.springframework:spring-context",
+        "scope": "compile"
+      },
+      {
+        "pom": "Persistence/org.egovframe.rte.psl.reactive.redis/pom.xml",
+        "coordinate": "org.springframework:spring-context",
+        "scope": "compile"
+      },
+      {
+        "pom": "Presentation/org.egovframe.rte.ptl.reactive/pom.xml",
+        "coordinate": "org.springframework:spring-context",
+        "scope": "compile"
+      }
+    ],
+    "spring-web": [
+      {
+        "pom": "Foundation/org.egovframe.rte.fdl.property/pom.xml",
+        "coordinate": "org.springframework:spring-web",
+        "scope": "compile"
+      },
+      {
+        "pom": "Integration/org.egovframe.rte.itl.webservice/pom.xml",
+        "coordinate": "org.springframework:spring-web",
+        "scope": "compile"
+      }
+    ],
+    "spring-webflux": [
+      {
+        "pom": "Foundation/org.egovframe.rte.fdl.reactive/pom.xml",
+        "coordinate": "org.springframework:spring-webflux",
+        "scope": "compile"
+      },
+      {
+        "pom": "Persistence/org.egovframe.rte.psl.reactive.cassandra/pom.xml",
+        "coordinate": "org.springframework:spring-webflux",
+        "scope": "compile"
+      },
+      {
+        "pom": "Persistence/org.egovframe.rte.psl.reactive.mongodb/pom.xml",
+        "coordinate": "org.springframework:spring-webflux",
+        "scope": "compile"
+      },
+      {
+        "pom": "Persistence/org.egovframe.rte.psl.reactive.r2dbc/pom.xml",
+        "coordinate": "org.springframework:spring-webflux",
+        "scope": "compile"
+      },
+      {
+        "pom": "Persistence/org.egovframe.rte.psl.reactive.redis/pom.xml",
+        "coordinate": "org.springframework:spring-webflux",
+        "scope": "compile"
+      },
+      {
+        "pom": "Presentation/org.egovframe.rte.ptl.reactive/pom.xml",
+        "coordinate": "org.springframework:spring-webflux",
+        "scope": "compile"
+      }
+    ],
+    "spring-security-config": [
+      {
+        "pom": "Foundation/org.egovframe.rte.fdl.security/pom.xml",
+        "coordinate": "org.springframework.security:spring-security-config",
+        "scope": "compile"
+      }
+    ],
+    "spring-security-taglibs": [
+      {
+        "pom": "Foundation/org.egovframe.rte.fdl.security/pom.xml",
+        "coordinate": "org.springframework.security:spring-security-taglibs",
+        "scope": "compile"
+      }
+    ],
+    "spring-data-jpa": [
+      {
+        "pom": "Persistence/org.egovframe.rte.psl.data.jpa/pom.xml",
+        "coordinate": "org.springframework.data:spring-data-jpa",
+        "scope": "compile"
+      }
+    ],
+    "spring-data-mongodb": [
+      {
+        "pom": "Persistence/org.egovframe.rte.psl.data.mongodb/pom.xml",
+        "coordinate": "org.springframework.data:spring-data-mongodb",
+        "scope": "compile"
+      },
+      {
+        "pom": "Persistence/org.egovframe.rte.psl.reactive.mongodb/pom.xml",
+        "coordinate": "org.springframework.data:spring-data-mongodb",
+        "scope": "compile"
+      }
+    ],
+    "spring-data-cassandra": [
+      {
+        "pom": "Persistence/org.egovframe.rte.psl.reactive.cassandra/pom.xml",
+        "coordinate": "org.springframework.data:spring-data-cassandra",
+        "scope": "compile"
+      }
+    ],
+    "spring-data-r2dbc": [
+      {
+        "pom": "Persistence/org.egovframe.rte.psl.reactive.r2dbc/pom.xml",
+        "coordinate": "org.springframework.data:spring-data-r2dbc",
+        "scope": "compile"
+      }
+    ],
+    "spring-data-redis": [
+      {
+        "pom": "Persistence/org.egovframe.rte.psl.reactive.redis/pom.xml",
+        "coordinate": "org.springframework.data:spring-data-redis",
+        "scope": "compile"
+      }
+    ]
+  }
+}

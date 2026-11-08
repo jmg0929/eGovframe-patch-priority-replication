@@ -1,0 +1,48 @@
+ghsa,cve,published,lead,train,pkgs,severity,cvss,exploitation,backported,summary
+GHSA-4wrc-f8pq-fpqp,CVE-2016-1000027,2022-05-24,1619,Spring Framework,spring-web,CRITICAL,9.8,none,0,Pivotal Spring Framework contains unsafe Java deserialization methods
+GHSA-cx7f-g6mp-7hqm,CVE-2024-38816,2024-09-13,776,Spring Framework,spring-webflux;spring-webmvc,HIGH,7.5,none,1,Path traversal vulnerability in functional web frameworks
+GHSA-4gc7-5j7h-4qph,CVE-2024-38820,2024-10-18,741,Spring Framework,spring-context;spring-web,MODERATE,5.3,none,0,Spring Framework DataBinder Case Sensitive Match Exception
+GHSA-w3c8-7r8f-9jp8,CVE-2024-38828,2024-11-18,710,Spring Framework,spring-webmvc,MODERATE,5.3,none,0,Spring MVC controller vulnerable to a DoS attack
+GHSA-g5vr-rgqm-vf78,CVE-2024-38819,2024-12-19,679,Spring Framework,spring-webflux;spring-webmvc,HIGH,7.5,none,1,Spring Framework Path Traversal vulnerability
+GHSA-mg83-c7gq-rv5c,CVE-2025-22228,2025-03-20,588,Spring Security,spring-security-crypto,HIGH,7.4,none,1,Spring Security Does Not Enforce Password Length
+GHSA-4wp7-92pw-q264,CVE-2025-22233,2025-05-16,531,Spring Framework,spring-context,LOW,3.1,none,0,Spring Framework DataBinder Case Sensitive Match Exception
+GHSA-r936-gwx5-v52f,CVE-2025-41242,2025-08-18,437,Spring Framework,spring-webmvc,MODERATE,5.9,none,0,Spring Framework MVC Applications Path Traversal Vulnerability
+GHSA-jmp9-x22r-554x,CVE-2025-41249,2025-09-16,408,Spring Framework,spring-core,HIGH,7.5,none,1,Spring Framework annotation detection mechanism may result in improper authorization
+GHSA-7fch-4f2f-jcgm,CVE-2025-41254,2025-10-16,378,Spring Framework,spring-websocket,MODERATE,4.3,none,0,Spring Framework STOMP over WebSocket applications may allow attackers to send unauthorized messages
+GHSA-4773-3jfm-qmx3,CVE-2026-22737,2026-03-20,223,Spring Framework,spring-webflux;spring-webmvc,MODERATE,5.9,none,0,Spring Framework Improper Path Limitation with Script View Templates
+GHSA-6hcq-hmm3-jj3c,CVE-2026-22735,2026-03-20,223,Spring Framework,spring-webflux;spring-webmvc,LOW,2.6,none,0,Spring MVC and WebFlux has Server Sent Event stream corruption
+GHSA-mf92-479x-3373,CVE-2026-22732,2026-03-20,223,Spring Security,spring-security-web,CRITICAL,9.1,none,1,Spring Security HTTP Headers Are not Written Under Some Conditions
+GHSA-vxf7-qj7q-83fh,CVE-2026-22746,2026-04-22,190,Spring Security,spring-security-core,LOW,3.7,none,0,Spring Security Vulnerable to User Attribute Enumeration when Using DaoAuthenticationProvider
+GHSA-5843-p793-ghmm,CVE-2026-22740,2026-04-29,183,Spring Framework,spring-webflux,MODERATE,6.5,none,0,Spring Framework DoS with Multipart Temp Files in WebFlux
+GHSA-6p4f-wcwh-5vvm,CVE-2026-22745,2026-04-29,183,Spring Framework,spring-webflux;spring-webmvc,MODERATE,5.3,none,0,Spring MVC and WebFlux applications are vulnerable to Denial of Service attacks when resolving static resources
+GHSA-wg35-8jpf-2xv3,CVE-2026-22741,2026-04-29,183,Spring Framework,spring-webflux;spring-webmvc,LOW,3.1,none,0,Spring MVC and WebFlux applications are vulnerable to cache poisoning when resolving static resources.
+GHSA-3chg-m5w7-qfv5,CVE-2026-41845,2026-06-09,142,Spring Framework,spring-webmvc,HIGH,7.1,none,1,Spring Framework Cross-site Scripting via JavaScriptUtils
+GHSA-4hfh-6x8g-gwpp,CVE-2026-41839,2026-06-09,142,Spring Framework,spring-webflux,MODERATE,4.2,none,0,Spring Framework Escalation via Session Fixation in WebFlux
+GHSA-659m-px2c-25wj,CVE-2026-41848,2026-06-09,142,Spring Framework,spring-core,LOW,3.7,none,0,Spring Framework Denial of Service via AntPathMatcher
+GHSA-72pg-x5f8-j25j,CVE-2026-41843,2026-06-09,142,Spring Framework,spring-webflux;spring-webmvc,MODERATE,5.9,none,1,Spring Framework Path Traversal via Versioned Static Resources in Spring MVC and WebFlux
+GHSA-775g-4xr8-78h8,CVE-2026-41849,2026-06-09,142,Spring Framework,spring-expression,HIGH,7.5,none,1,Spring Framework Denial of Service via Integer Overflow in SpEL Expressions
+GHSA-83f7-v6px-pp3h,CVE-2026-41840,2026-06-09,142,Spring Framework,spring-webflux,MODERATE,5.9,none,0,Spring Framework Denial of Service via Multipart Requests in WebFlux
+GHSA-957g-f97v-vppc,CVE-2026-41846,2026-06-09,142,Spring Framework,spring-webmvc,MODERATE,5.9,none,0,Spring Framework Cross-site Scripting via JSP Form Tags
+GHSA-9f52-rjqv-25qv,CVE-2026-41852,2026-06-09,142,Spring Framework,spring-expression,LOW,3.7,none,0,Spring Framework Arbitrary Method Invocation in SpEL Expressions
+GHSA-cjpg-rgq5-fr37,CVE-2026-41853,2026-06-09,142,Spring Framework,spring-webflux;spring-webmvc,MODERATE,5.3,none,0,Spring Framework Multipart Request Smuggling in Spring MVC and WebFlux
+GHSA-h3qp-gqrc-q736,CVE-2026-41844,2026-06-09,142,Spring Framework,spring-webflux;spring-webmvc,MODERATE,4.2,none,0,Spring Framework Open Redirect in Spring MVC and WebFlux
+GHSA-mq64-j8f9-9gcj,CVE-2026-41841,2026-06-09,142,Spring Framework,spring-webflux;spring-webmvc,MODERATE,5.9,none,1,Spring Framework Information Disclosure via Static Resource Cache in Spring MVC and WebFlux
+GHSA-q723-847q-5g8g,CVE-2026-41838,2026-06-09,142,Spring Framework,spring-websocket,MODERATE,4.8,none,0,Spring Framework Predictable Session ID in WebSocket Module
+GHSA-r5w3-xv2f-j59q,CVE-2026-41850,2026-06-09,142,Spring Framework,spring-expression,HIGH,7.5,none,1,Spring Framework Algorithmic Denial of Service via SpEL Expressions
+GHSA-vqgp-pf68-6947,CVE-2026-41847,2026-06-09,142,Spring Framework,spring-webflux,MODERATE,4.8,none,0,Spring Framework Security Filter Bypass in WebFlux Kotlin Router DSL
+GHSA-wxpp-56q6-5pcg,CVE-2026-41851,2026-06-09,142,Spring Framework,spring-expression,MODERATE,5.3,none,0,Spring Framework Denial of Service via Unbounded Cache in SpEL
+GHSA-x23c-287f-qqv5,CVE-2026-41842,2026-06-09,142,Spring Framework,spring-webflux;spring-webmvc,HIGH,7.5,none,1,Spring Framework Denial of Service via Versioned Resources in Spring MVC and WebFlux
+GHSA-x863-p983-p4f7,CVE-2026-41855,2026-06-09,142,Spring Framework,spring-jms,HIGH,8.1,none,1,Spring Framework Unsafe Deserialization via Jackson JMS Converters
+GHSA-293q-567p-wmwq,CVE-2026-47838,2026-06-10,141,Spring Security,spring-security-web,MODERATE,6.8,none,0,Spring Security Vulnerable to Unauthorized User Impersonation when Using X.509 Client Certificates
+GHSA-3pjj-qpw6-5fcm,CVE-2026-41003,2026-06-10,141,Spring Security,spring-security-saml2-service-provider,HIGH,7.6,none,0,Spring Security SAML2 Service Provider: RelyingPartyRegistration may run arbitrary code on HTML forms generated by Spring Security filters
+GHSA-5m4m-73w9-8433,CVE-2026-41721,2026-06-10,141,Spring Data Commons,spring-data-commons,MODERATE,5.9,none,0,Spring Data Commons: Denial of Service via excessive memory allocation in projection binding
+GHSA-5vpf-xvv7-c8vh,CVE-2026-41711,2026-06-10,141,Spring Data Commons,spring-data-commons,MODERATE,5.9,none,0,Spring Data Commons: StackOverflowException when parsing Sort parameters (DoS)
+GHSA-5whc-4q84-fj73,CVE-2026-41717,2026-06-10,141,Spring Data MongoDB,spring-data-mongodb,HIGH,8.1,none,1,Spring Data MongoDB is vulnerable to SpEL (Spring Expression Language) expression injection
+GHSA-9fw2-h3hf-293r,CVE-2026-41716,2026-06-10,141,Spring Data Commons,spring-data-commons,HIGH,7.5,none,1,Spring Data Commons: Heap exhaustion from unbounded property-lookup cache retaining crafted string keys
+GHSA-hc43-m36c-8v33,CVE-2026-41696,2026-06-10,141,Spring Data MongoDB,spring-data-mongodb,MODERATE,5.9,none,0,Spring Data MongoDB Has Regex Parameter Binding Injection in @Query Repository Methods
+GHSA-m69x-pw9p-7j3q,CVE-2026-40988,2026-06-10,141,Spring Security,spring-security-saml2-service-provider,HIGH,7.5,none,0,Spring Security SAML2 Service Provider: Unbounded writer inflates the compressed SAML payload into memory (DoS)
+GHSA-ww38-37g9-m3q3,CVE-2026-41694,2026-06-10,141,Spring Security,spring-security-saml2-service-provider,LOW,3.7,none,0,Spring Security SAML2 Service Provider: Decryption Oracle Vulnerability from Unsigned SAML Response and Logout Payloads
+GHSA-x2r2-rvhq-2mqv,CVE-2026-41706,2026-06-10,141,Spring Security,spring-security-web,MODERATE,6.1,none,0,Spring Security: Open Redirect via Unvalidated Post-Login Redirect URL Stored in CookieRequestCache
+GHSA-792x-6vq6-j8r9,CVE-2026-40987,2026-06-11,140,Spring Integration,spring-integration-file,HIGH,7.1,none,0,Spring Integration File Support: FTP/SFTP/SMB server can write arbitrary files anywhere on the client filesystem
+GHSA-9qf2-26p9-2q2q,CVE-2026-47892,2026-08-27,63,Spring Framework,spring-webflux,CRITICAL,9.8,none,0,Spring Framework Header Predicate Bypass in WebFlux Functional Endpoints
+GHSA-pc63-qcmh-9cmg,CVE-2026-47884,2026-08-27,63,Spring Framework,spring-webmvc,CRITICAL,9.8,none,0,Spring Framework Improper Path Limitation in XsltView
